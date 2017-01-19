@@ -53,6 +53,31 @@
 				</array>
 			</dict>
 		</dict>
+		<dict>
+			<key>UTTypeConformsTo</key>
+			<array>
+				<string>public.css</string>
+			</array>
+			<key>UTTypeDescription</key>
+			<string>CSS</string>
+			<key>UTTypeIdentifier</key>
+			<string>com.geuis.css</string>
+			<key>UTTypeTagSpecification</key>
+			<dict>
+				<key>com.apple.nspboard-type</key>
+				<array>
+					<string>o</string>
+				</array>
+				<key>public.filename-extension</key>
+				<array>
+					<string>less</string>
+				</array>
+				<key>public.mime-type</key>
+				<array>
+					<string>text/css</string>
+				</array>
+			</dict>
+		</dict>
 	</array>
 </dict>
 </plist>
